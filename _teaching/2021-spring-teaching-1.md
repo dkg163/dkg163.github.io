@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 3"
+title: "2021"
 collection: teaching
 type: "MGMT 350 – Decision Science"
 permalink: /teaching/2021-spring-teaching-1
