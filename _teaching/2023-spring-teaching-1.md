@@ -7,13 +7,3 @@ venue: "California State University East Bay"
 date: 2023-01-01
 location: "Hayward, California"
 ---
-
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
