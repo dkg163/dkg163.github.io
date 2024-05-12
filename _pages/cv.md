@@ -26,11 +26,11 @@ Work experience
   * Hewlett Packard Enterprises - Cloud Business Unit
   * Duties include: -	Long-term planning, technology assessment, portfolio alignment and market fitness, M&A, portfolio ROI, strategic recurring revenue, and pricing and monetization
 
-* 2013.6 - 2019.7: Operations and Analyst
+* 2013.6 - 2019.7: Operations and Portfolio Analysis
   * JW Capital
   * Duties include: -	portfolio analysis, search fund, finance, and operations
 
-* 2010.12 - 2013.5: Operations and Analyst
+* 2010.12 - 2013.5: Operations and Portfolio Analysis
   * Principle Capital Management
   * Duties included: Operations and funds management
   
