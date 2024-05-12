@@ -11,34 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer science (AI, robotics, data, and analytics), Mississippi State University, 2025 (expected)
+* M.S. Stanford University
+* B.E. Shanghai Jiaotong University
+* CFA charterholder
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 to present: PhD student 
+  * Mississippi State University
+  * Computer Science Department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.8 – 2022.6: Business Strategy
+  * Hewlett Packard Enterprises - Cloud Business Unit
+  * Duties include: -	Long-term planning, technology assessment, portfolio alignment and market fitness, M&A, portfolio ROI, strategic recurring revenue, and pricing and monetization
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013.6 - 2019.7: Operations and Analyst
+  * JW Capital
+  * Duties include: -	portfolio analysis, search fund, finance, and operations
+
+* 2010.12 - 2013.5: Operations and Analyst
+  * Principle Capital Management
+  * Duties included: Operations and funds management
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Business: Skill 1
+* Computer Science
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
