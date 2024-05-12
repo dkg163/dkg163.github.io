@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 5"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "o	MGMT 350 – Decision Science"
+permalink: /teaching/2019-spring-teaching-1
+venue: "California State University East Bay"
+date: 2019-01-01
+location: "Hayward, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======
