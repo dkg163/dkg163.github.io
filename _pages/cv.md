@@ -36,11 +36,9 @@ Work experience
   
 Skills
 ======
-* Business: Skill 1
+* Business: accounting, economics, finance, sales, marketing, data analytics, and management
 * Computer Science
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-* Skill 3
+  * AI, robotics, ethics, and reglation
 
 Publications
 ======
