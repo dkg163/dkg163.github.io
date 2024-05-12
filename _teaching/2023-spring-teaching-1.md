@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "2023"
 collection: teaching
 type: "ITM 330 – Python Programming"
 permalink: /teaching/2023-spring-teaching-1
