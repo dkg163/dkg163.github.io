@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "2022"
 collection: teaching
 type: "MGMT 650 – International Supply Chain"
 permalink: /teaching/2022-spring-teaching-1
