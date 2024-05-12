@@ -8,12 +8,3 @@ date: 2020-01-01
 location: "Hayward CA"
 ---
 
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
