@@ -1,5 +1,5 @@
 ---
-title: "2020"
+title: "2020 MGMT 350 – Decision Science"
 collection: teaching
 type: "MGMT 350 – Decision Science "
 permalink: /teaching/2020-spring-teaching-1
