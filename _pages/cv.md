@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer science (AI, robotics, data, and analytics), Mississippi State University, 2025 (expected)
+* Ph.D in Computer Science (AI, robotics, data, and analytics), Mississippi State University, 2025 (expected)
 * M.S. Stanford University
 * B.E. Shanghai Jiaotong University
 * CFA charterholder
