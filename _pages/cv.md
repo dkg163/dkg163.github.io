@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate. Degree expected Aug. 2025.
-* M.S. 
-* B.E. 
+* Ph.D candidate in Computer Science. Degree expected Aug. 2025.
+* M.S.
+* B.E.
 * CFA charter holder
 
 Work experience
@@ -28,7 +28,7 @@ Skills
 ======
 * Business: accounting, economics, finance, sales, marketing, data analytics, and management
 * Computer Science
-  * AI, robotics, ethics, and reglation
+  * AI, robotics, ethics, and regulation
 
 Publications
 ======
