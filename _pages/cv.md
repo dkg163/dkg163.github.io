@@ -18,11 +18,10 @@ Education
 
 Work experience
 ======
-* 2022 to present: PhD candidate 
+* 2023 to present: PhD candidate in computer science
   * Mississippi State University
-  * Computer Science Department
 
-* 2018.1 – 2022.6: California State University East Bay - Adjunct Faculty
+* 2018 – 2023: California State University East Bay - Adjunct Faculty in Management Department
 
 Skills
 ======
