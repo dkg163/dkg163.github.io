@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate, degree expected Aug. 2025.
+* Ph.D candidate. Degree expected Aug. 2025.
 * M.S. 
 * B.E. 
 * CFA charter holder
