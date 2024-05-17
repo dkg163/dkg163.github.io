@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2023 to present: PhD candidate 
+* 2022 to present: PhD candidate 
   * Mississippi State University
   * Computer Science Department
 
