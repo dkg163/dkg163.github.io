@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kevin.Gao.2.png"
+  avatar           : "bio-photo-2.jpg"
   name             : "Kevin Gao"
   #pronouns         : # example: "she/her"  
   bio              : "A rare combo of deep business, operations, and strategy skills with a keen understanding of AI, machine learning, robotics, and related ethics and regulations."
